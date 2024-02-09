@@ -410,43 +410,6 @@ ul.nav li.active a:before {
 }
 
 
-/* .home-carousel-left,
-.home-carousel-right {
-    background-color: white;
-    color: tan;
-    font-size: 32px;
-    height: 40px;
-    line-height: 40px;
-    margin-top: -20px;
-    position: absolute;
-    text-align: center;
-    top: 50%;
-    width: 32px;
-    z-index: 999;
-    -webkit-transition: 300ms;
-    -moz-transition: 300ms;
-    -o-transition: 300ms;
-    -ms-transition: 300ms;
-    transition: 300ms;
-}
-
-.home-carousel-left {
-    left: -32px;
-}
-
-.home-carousel-right {
-    right: -32px;
-}
-
-#home-carousel:hover .home-carousel-left {
-    left: 0;
-}
-
-#home-carousel:hover .home-carousel-right {
-    right: 0;
-} */
-
-
 /* Carousel animation */
 
 #home-carousel .item h1,
@@ -511,13 +474,6 @@ ul.nav li.active a:before {
     color: tan;
 }
 
-
-/* .heading p {
-    padding: 20px 0px;
-    font-size: 13px;
-    font-weight: bolder;
-} */
-
 .ab-sec {
     text-align: justify;
 }
@@ -548,22 +504,6 @@ ul.nav li.active a:before {
 
 
 /*Background-stylesheets-include-here*/
-
-.bg-sec {
-    background: rgb(16, 16, 15);
-    margin-top: 10px;
-    padding: 1% 0%;
-}
-
-.bg-sec h3 {
-    color: purple;
-    text-transform: none;
-    font-weight: bolder;
-}
-
-.bg-sec p {
-    color: purple;
-}
 
 
 /*Portfolio-stylesheets-include-here*/
@@ -878,28 +818,6 @@ textarea.form-control {
     color: #007bb6;
     border: 2px solid #007bb6;
 }
-
-
-/* #footer-down ul li.google-plus i.fa:hover {
-    color: #dd4b39;
-    border: 2px solid #dd4b39;
-} */
-
-
-/* #footer-down ul li.youtube i.fa:hover {
-    color: #bb0000;
-    border: 2px solid #bb0000;
-}
-
-#footer-down ul li.instagram i.fa:hover {
-    color: #517fa4;
-    border: 2px solid #517fa4;
-}
-
-#footer-down ul li.behance i.fa:hover {
-    color: #1769ff;
-    border: 2px solid #1769ff;
-} */
 
 
 /*Index-1-Stylesheets-End-Here*/
