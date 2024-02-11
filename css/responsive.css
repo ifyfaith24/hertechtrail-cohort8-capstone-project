@@ -87,6 +87,24 @@
     .img {
         left: -5px;
     }
+    #pre-status,
+    .preload-placeholder {
+        position: absolute;
+        text-align: center;
+        background-position: center;
+        height: 256px;
+        left: 35%;
+        margin: -20px 0 0 -20px;
+        top: 42%;
+        width: 256px;
+    }
+    .preload-placeholder {
+        background: none;
+        left: 0;
+        margin: 0;
+        text-align: center;
+        top: 65%;
+    }
 }
 
 @media all and (min-width: 480px) and (max-width: 768px) {
@@ -208,6 +226,24 @@
     .img {
         left: -5px;
     }
+    #pre-status,
+    .preload-placeholder {
+        position: absolute;
+        text-align: center;
+        background-position: center;
+        height: 196px;
+        left: 30%;
+        margin: -20px 0 0 -20px;
+        top: 42%;
+        width: 196px;
+    }
+    .preload-placeholder {
+        background: none;
+        left: 0;
+        margin: 0;
+        text-align: center;
+        top: 65%;
+    }
 }
 
 @media all and (min-width: 299px) and (max-width: 479px) {
@@ -307,5 +343,23 @@
     }
     #footer-down ul li {
         margin-right: 10px;
+    }
+    #pre-status,
+    .preload-placeholder {
+        position: absolute;
+        text-align: center;
+        background-position: center;
+        height: 196px;
+        left: 30%;
+        margin: -20px 0 0 -20px;
+        top: 42%;
+        width: 196px;
+    }
+    .preload-placeholder {
+        background: none;
+        left: 0;
+        margin: 0;
+        text-align: center;
+        top: 65%;
     }
 }
