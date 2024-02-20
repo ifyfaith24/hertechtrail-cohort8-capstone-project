@@ -485,14 +485,14 @@ ul.nav li.active a:before {
 }
 
 .img {
-    height: 100%;
-    width: 100%;
+    height: 40%;
+    width: 80%;
     display: inline-block;
     margin-top: 25px;
     position: relative;
     left: 100px;
-    border: 4px solid white;
-    box-shadow: 5px 5px 5px 5px grey;
+    border: 4px solid black;
+    border-radius: 50%;
 }
 
 .ab-sec h3 {
@@ -1117,6 +1117,9 @@ a.btn-learn:hover {
 .parallex-content h6 {
     color: tan;
 }
+
+
+/*Basic-Stylesheets-End-Here*/
 
 
 /*Basic-Stylesheets-End-Here*/
